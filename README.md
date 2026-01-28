@@ -12,4 +12,5 @@ AI Usage in Students’ Life – Data Analysis Project focuses on analyzing how 
 
 
 
-# AI-USAGE-IN-STUDENT-S-LIFE<img width="1310" height="736" alt="image" src="https://github.com/user-attachments/assets/8e910346-2aed-4960-a082-a11ceabffcf3" />
+# AI-Usage-in-Students'-Life
+<img width="1310" height="736" alt="image" src="https://github.com/user-attachments/assets/8e910346-2aed-4960-a082-a11ceabffcf3" />
